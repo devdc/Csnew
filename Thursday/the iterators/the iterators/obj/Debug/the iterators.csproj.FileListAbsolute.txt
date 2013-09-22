@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\C#\thursday\the iterators\the iterators\bin\Debug\the iterators.exe.config
+C:\Users\jbt\Desktop\C#\thursday\the iterators\the iterators\bin\Debug\the iterators.exe
+C:\Users\jbt\Desktop\C#\thursday\the iterators\the iterators\bin\Debug\the iterators.pdb
+C:\Users\jbt\Desktop\C#\thursday\the iterators\the iterators\obj\Debug\the iterators.exe
+C:\Users\jbt\Desktop\C#\thursday\the iterators\the iterators\obj\Debug\the iterators.pdb

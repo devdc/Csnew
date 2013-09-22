@@ -1,0 +1,4 @@
+C:\Users\jbt\Desktop\C#\wednesday\Exercise DLL\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\jbt\Desktop\C#\wednesday\Exercise DLL\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\jbt\Desktop\C#\wednesday\Exercise DLL\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\jbt\Desktop\C#\wednesday\Exercise DLL\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

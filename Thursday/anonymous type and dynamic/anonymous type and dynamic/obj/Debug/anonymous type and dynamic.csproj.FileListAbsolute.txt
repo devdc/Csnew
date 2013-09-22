@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\C#\thursday\anonymous type and dynamic\anonymous type and dynamic\bin\Debug\anonymous type and dynamic.exe.config
+C:\Users\jbt\Desktop\C#\thursday\anonymous type and dynamic\anonymous type and dynamic\bin\Debug\anonymous type and dynamic.exe
+C:\Users\jbt\Desktop\C#\thursday\anonymous type and dynamic\anonymous type and dynamic\bin\Debug\anonymous type and dynamic.pdb
+C:\Users\jbt\Desktop\C#\thursday\anonymous type and dynamic\anonymous type and dynamic\obj\Debug\anonymous type and dynamic.exe
+C:\Users\jbt\Desktop\C#\thursday\anonymous type and dynamic\anonymous type and dynamic\obj\Debug\anonymous type and dynamic.pdb

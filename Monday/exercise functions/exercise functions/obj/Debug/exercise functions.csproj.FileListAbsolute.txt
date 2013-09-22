@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\monday\exercise functions\exercise functions\bin\Debug\exercise functions.exe.config
+C:\Users\jbt\Desktop\C#\monday\exercise functions\exercise functions\bin\Debug\exercise functions.exe
+C:\Users\jbt\Desktop\C#\monday\exercise functions\exercise functions\bin\Debug\exercise functions.pdb
+C:\Users\jbt\Desktop\C#\monday\exercise functions\exercise functions\obj\Debug\exercise functions.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\monday\exercise functions\exercise functions\obj\Debug\exercise functions.exe
+C:\Users\jbt\Desktop\C#\monday\exercise functions\exercise functions\obj\Debug\exercise functions.pdb

@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\thursday\advanced subjects\advanced subjects\bin\Debug\advanced subjects.exe.config
+C:\Users\jbt\Desktop\C#\thursday\advanced subjects\advanced subjects\bin\Debug\advanced subjects.exe
+C:\Users\jbt\Desktop\C#\thursday\advanced subjects\advanced subjects\bin\Debug\advanced subjects.pdb
+C:\Users\jbt\Desktop\C#\thursday\advanced subjects\advanced subjects\obj\Debug\advanced subjects.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\thursday\advanced subjects\advanced subjects\obj\Debug\advanced subjects.exe
+C:\Users\jbt\Desktop\C#\thursday\advanced subjects\advanced subjects\obj\Debug\advanced subjects.pdb

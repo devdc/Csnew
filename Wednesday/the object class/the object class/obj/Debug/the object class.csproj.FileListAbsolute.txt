@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\C#\wednesday\the object class\the object class\bin\Debug\the object class.exe.config
+C:\Users\jbt\Desktop\C#\wednesday\the object class\the object class\bin\Debug\the object class.exe
+C:\Users\jbt\Desktop\C#\wednesday\the object class\the object class\bin\Debug\the object class.pdb
+C:\Users\jbt\Desktop\C#\wednesday\the object class\the object class\obj\Debug\the object class.exe
+C:\Users\jbt\Desktop\C#\wednesday\the object class\the object class\obj\Debug\the object class.pdb

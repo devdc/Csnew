@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\thursday\ConsoleApplication1 guid\ConsoleApplication1 guid\bin\Debug\ConsoleApplication1 guid.exe.config
+C:\Users\jbt\Desktop\C#\thursday\ConsoleApplication1 guid\ConsoleApplication1 guid\obj\Debug\ConsoleApplication1 guid.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\thursday\ConsoleApplication1 guid\ConsoleApplication1 guid\bin\Debug\ConsoleApplication1 guid.exe
+C:\Users\jbt\Desktop\C#\thursday\ConsoleApplication1 guid\ConsoleApplication1 guid\bin\Debug\ConsoleApplication1 guid.pdb
+C:\Users\jbt\Desktop\C#\thursday\ConsoleApplication1 guid\ConsoleApplication1 guid\obj\Debug\ConsoleApplication1 guid.exe
+C:\Users\jbt\Desktop\C#\thursday\ConsoleApplication1 guid\ConsoleApplication1 guid\obj\Debug\ConsoleApplication1 guid.pdb

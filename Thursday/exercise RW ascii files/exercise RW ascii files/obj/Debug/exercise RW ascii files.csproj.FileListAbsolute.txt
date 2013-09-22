@@ -1,0 +1,9 @@
+C:\Users\jbt\Desktop\C#\thursday\exercise RW ascii files\exercise RW ascii files\bin\Debug\exercise RW ascii files.exe.config
+C:\Users\jbt\Desktop\C#\thursday\exercise RW ascii files\exercise RW ascii files\bin\Debug\exercise RW ascii files.exe
+C:\Users\jbt\Desktop\C#\thursday\exercise RW ascii files\exercise RW ascii files\bin\Debug\exercise RW ascii files.pdb
+C:\Users\jbt\Desktop\C#\thursday\exercise RW ascii files\exercise RW ascii files\obj\Debug\exercise RW ascii files.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\thursday\exercise RW ascii files\exercise RW ascii files\obj\Debug\exercise_RW_ascii_files.Form1.resources
+C:\Users\jbt\Desktop\C#\thursday\exercise RW ascii files\exercise RW ascii files\obj\Debug\exercise_RW_ascii_files.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\thursday\exercise RW ascii files\exercise RW ascii files\obj\Debug\exercise RW ascii files.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\thursday\exercise RW ascii files\exercise RW ascii files\obj\Debug\exercise RW ascii files.exe
+C:\Users\jbt\Desktop\C#\thursday\exercise RW ascii files\exercise RW ascii files\obj\Debug\exercise RW ascii files.pdb

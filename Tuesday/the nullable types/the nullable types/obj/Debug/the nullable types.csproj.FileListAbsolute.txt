@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\tuesday\the nullable types\the nullable types\bin\Debug\the nullable types.exe.config
+C:\Users\jbt\Desktop\C#\tuesday\the nullable types\the nullable types\bin\Debug\the nullable types.exe
+C:\Users\jbt\Desktop\C#\tuesday\the nullable types\the nullable types\bin\Debug\the nullable types.pdb
+C:\Users\jbt\Desktop\C#\tuesday\the nullable types\the nullable types\obj\Debug\the nullable types.exe
+C:\Users\jbt\Desktop\C#\tuesday\the nullable types\the nullable types\obj\Debug\the nullable types.pdb
+O:\qamit\C#\Tuesday\the nullable types\the nullable types\bin\Debug\the nullable types.exe.config
+O:\qamit\C#\Tuesday\the nullable types\the nullable types\obj\Debug\the nullable types.exe
+O:\qamit\C#\Tuesday\the nullable types\the nullable types\obj\Debug\the nullable types.pdb

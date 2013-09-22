@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\thursday\the DB\the DB\bin\Debug\the DB.exe.config
+C:\Users\jbt\Desktop\C#\thursday\the DB\the DB\bin\Debug\the DB.exe
+C:\Users\jbt\Desktop\C#\thursday\the DB\the DB\bin\Debug\the DB.pdb
+C:\Users\jbt\Desktop\C#\thursday\the DB\the DB\obj\Debug\the_DB.Form1.resources
+C:\Users\jbt\Desktop\C#\thursday\the DB\the DB\obj\Debug\the_DB.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\thursday\the DB\the DB\obj\Debug\the DB.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\thursday\the DB\the DB\obj\Debug\the DB.exe
+C:\Users\jbt\Desktop\C#\thursday\the DB\the DB\obj\Debug\the DB.pdb

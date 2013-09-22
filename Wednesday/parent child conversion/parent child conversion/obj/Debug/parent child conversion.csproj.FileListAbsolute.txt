@@ -1,0 +1,11 @@
+C:\Users\jbt\Desktop\C#\wednesday\parent child conversion\parent child conversion\bin\Debug\parent child conversion.exe.config
+C:\Users\jbt\Desktop\C#\wednesday\parent child conversion\parent child conversion\bin\Debug\parent child conversion.exe
+C:\Users\jbt\Desktop\C#\wednesday\parent child conversion\parent child conversion\bin\Debug\parent child conversion.pdb
+C:\Users\jbt\Desktop\C#\wednesday\parent child conversion\parent child conversion\obj\Debug\parent child conversion.exe
+C:\Users\jbt\Desktop\C#\wednesday\parent child conversion\parent child conversion\obj\Debug\parent child conversion.pdb
+O:\qamit\C#\Wednesday\parent child conversion\parent child conversion\bin\Debug\parent child conversion.exe.config
+O:\qamit\C#\Wednesday\parent child conversion\parent child conversion\obj\Debug\parent child conversion.exe
+O:\qamit\C#\Wednesday\parent child conversion\parent child conversion\obj\Debug\parent child conversion.pdb
+O:\qamit\C#\Wednesday\parent child conversion\parent child conversion\bin\Debug\parent child conversion.exe
+O:\qamit\C#\Wednesday\parent child conversion\parent child conversion\bin\Debug\parent child conversion.pdb
+O:\qamit\C#\Wednesday\parent child conversion\parent child conversion\obj\Debug\parent child conversion.csprojResolveAssemblyReference.cache

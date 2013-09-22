@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\monday\the string class\the string class\bin\Debug\the string class.exe.config
+C:\Users\jbt\Desktop\C#\monday\the string class\the string class\bin\Debug\the string class.exe
+C:\Users\jbt\Desktop\C#\monday\the string class\the string class\bin\Debug\the string class.pdb
+C:\Users\jbt\Desktop\C#\monday\the string class\the string class\obj\Debug\the string class.exe
+C:\Users\jbt\Desktop\C#\monday\the string class\the string class\obj\Debug\the string class.pdb
+O:\qamit\C#\Monday\the string class\the string class\bin\Debug\the string class.exe.config
+O:\qamit\C#\Monday\the string class\the string class\obj\Debug\the string class.exe
+O:\qamit\C#\Monday\the string class\the string class\obj\Debug\the string class.pdb

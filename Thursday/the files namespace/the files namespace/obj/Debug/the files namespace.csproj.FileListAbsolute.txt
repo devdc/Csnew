@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\thursday\the files namespace\the files namespace\bin\Debug\the files namespace.exe.config
+C:\Users\jbt\Desktop\C#\thursday\the files namespace\the files namespace\bin\Debug\the files namespace.exe
+C:\Users\jbt\Desktop\C#\thursday\the files namespace\the files namespace\bin\Debug\the files namespace.pdb
+C:\Users\jbt\Desktop\C#\thursday\the files namespace\the files namespace\obj\Debug\the files namespace.exe
+C:\Users\jbt\Desktop\C#\thursday\the files namespace\the files namespace\obj\Debug\the files namespace.pdb
+O:\qamit\C#\Thursday\the files namespace\the files namespace\bin\Debug\the files namespace.exe.config
+O:\qamit\C#\Thursday\the files namespace\the files namespace\obj\Debug\the files namespace.exe
+O:\qamit\C#\Thursday\the files namespace\the files namespace\obj\Debug\the files namespace.pdb

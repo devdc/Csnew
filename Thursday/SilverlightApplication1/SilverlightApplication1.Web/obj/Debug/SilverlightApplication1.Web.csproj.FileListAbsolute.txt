@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb

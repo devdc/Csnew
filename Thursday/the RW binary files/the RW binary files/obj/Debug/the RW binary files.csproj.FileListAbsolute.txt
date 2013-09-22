@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\thursday\the RW binary files\the RW binary files\bin\Debug\the RW binary files.exe.config
+C:\Users\jbt\Desktop\C#\thursday\the RW binary files\the RW binary files\bin\Debug\the RW binary files.exe
+C:\Users\jbt\Desktop\C#\thursday\the RW binary files\the RW binary files\bin\Debug\the RW binary files.pdb
+C:\Users\jbt\Desktop\C#\thursday\the RW binary files\the RW binary files\obj\Debug\the_RW_binary_files.Form1.resources
+C:\Users\jbt\Desktop\C#\thursday\the RW binary files\the RW binary files\obj\Debug\the_RW_binary_files.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\thursday\the RW binary files\the RW binary files\obj\Debug\the RW binary files.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\thursday\the RW binary files\the RW binary files\obj\Debug\the RW binary files.exe
+C:\Users\jbt\Desktop\C#\thursday\the RW binary files\the RW binary files\obj\Debug\the RW binary files.pdb

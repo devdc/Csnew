@@ -1,0 +1,12 @@
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1.dll
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1.pdb
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\Bin\Debug\AppManifest.xaml
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1.xap
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\Bin\Debug\SilverlightApplication1TestPage.html
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\obj\Debug\SilverlightApplication1.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\obj\Debug\App.g.cs
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\obj\Debug\MainPage.g.cs
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\obj\Debug\SilverlightApplication1.g.resources
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\obj\Debug\SilverlightApplication1.dll
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\obj\Debug\SilverlightApplication1.pdb
+C:\Users\jbt\Desktop\C#\thursday\SilverlightApplication1\SilverlightApplication1\obj\Debug\XapCacheFile.xml

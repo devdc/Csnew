@@ -1,0 +1,30 @@
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account\exercise Bank account\bin\Debug\exercise Bank account.exe.config
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account\exercise Bank account\bin\Debug\exercise Bank account.exe
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account\exercise Bank account\bin\Debug\exercise Bank account.pdb
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account\exercise Bank account\obj\Debug\exercise Bank account.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account\exercise Bank account\obj\Debug\exercise_Bank_account.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account\exercise Bank account\obj\Debug\exercise Bank account.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account\exercise Bank account\obj\Debug\exercise Bank account.exe
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account\exercise Bank account\obj\Debug\exercise Bank account.pdb
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account\exercise Bank account\obj\Debug\exercise_Bank_account.Form1.resources
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account - ctor\exercise Bank account\bin\Debug\exercise Bank account.exe.config
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account - ctor\exercise Bank account\bin\Debug\exercise Bank account.exe
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account - ctor\exercise Bank account\bin\Debug\exercise Bank account.pdb
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account - ctor\exercise Bank account\obj\Debug\exercise Bank account.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account - ctor\exercise Bank account\obj\Debug\exercise_Bank_account.Form1.resources
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account - ctor\exercise Bank account\obj\Debug\exercise_Bank_account.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account - ctor\exercise Bank account\obj\Debug\exercise Bank account.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account - ctor\exercise Bank account\obj\Debug\exercise Bank account.exe
+C:\Users\jbt\Desktop\C#\tuesday\exercise Bank account - ctor\exercise Bank account\obj\Debug\exercise Bank account.pdb
+C:\Users\jbt\Desktop\C#\wednesday\exercise Bank account - event\exercise Bank account\bin\Debug\exercise Bank account.exe.config
+C:\Users\jbt\Desktop\C#\wednesday\exercise Bank account - event\exercise Bank account\obj\Debug\exercise Bank account.exe
+C:\Users\jbt\Desktop\C#\wednesday\exercise Bank account - event\exercise Bank account\obj\Debug\exercise Bank account.pdb
+C:\Users\jbt\Desktop\C#\wednesday\exercise Bank account - event\exercise Bank account\bin\Debug\exercise Bank account.exe
+C:\Users\jbt\Desktop\C#\wednesday\exercise Bank account - event\exercise Bank account\bin\Debug\exercise Bank account.pdb
+C:\Users\jbt\Desktop\C#\wednesday\exercise Bank account - event\exercise Bank account\obj\Debug\exercise Bank account.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\wednesday\exercise Bank account - event\exercise Bank account\obj\Debug\exercise_Bank_account.Form1.resources
+C:\Users\jbt\Desktop\C#\wednesday\exercise Bank account - event\exercise Bank account\obj\Debug\exercise_Bank_account.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\wednesday\exercise Bank account - event\exercise Bank account\obj\Debug\exercise Bank account.csproj.GenerateResource.Cache
+O:\qamit\C#\Wednesday\exercise Bank account - event\exercise Bank account\bin\Debug\exercise Bank account.exe.config
+O:\qamit\C#\Wednesday\exercise Bank account - event\exercise Bank account\obj\Debug\exercise Bank account.exe
+O:\qamit\C#\Wednesday\exercise Bank account - event\exercise Bank account\obj\Debug\exercise Bank account.pdb

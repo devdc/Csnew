@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advanced subjects", "advanced subjects\advanced subjects.csproj", "{612236BA-F04E-4599-8C2A-D0E7A3DCCFF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612236BA-F04E-4599-8C2A-D0E7A3DCCFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612236BA-F04E-4599-8C2A-D0E7A3DCCFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612236BA-F04E-4599-8C2A-D0E7A3DCCFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612236BA-F04E-4599-8C2A-D0E7A3DCCFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\wednesday\the GetType Method\the GetType Method\bin\Debug\the GetType Method.exe.config
+C:\Users\jbt\Desktop\C#\wednesday\the GetType Method\the GetType Method\bin\Debug\the GetType Method.exe
+C:\Users\jbt\Desktop\C#\wednesday\the GetType Method\the GetType Method\bin\Debug\the GetType Method.pdb
+C:\Users\jbt\Desktop\C#\wednesday\the GetType Method\the GetType Method\obj\Debug\the GetType Method.exe
+C:\Users\jbt\Desktop\C#\wednesday\the GetType Method\the GetType Method\obj\Debug\the GetType Method.pdb
+O:\qamit\C#\Wednesday\the GetType Method\the GetType Method\bin\Debug\the GetType Method.exe.config
+O:\qamit\C#\Wednesday\the GetType Method\the GetType Method\obj\Debug\the GetType Method.exe
+O:\qamit\C#\Wednesday\the GetType Method\the GetType Method\obj\Debug\the GetType Method.pdb

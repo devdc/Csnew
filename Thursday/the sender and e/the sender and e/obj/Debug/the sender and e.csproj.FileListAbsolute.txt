@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\thursday\the sender and e\the sender and e\bin\Debug\the sender and e.exe.config
+C:\Users\jbt\Desktop\C#\thursday\the sender and e\the sender and e\bin\Debug\the sender and e.exe
+C:\Users\jbt\Desktop\C#\thursday\the sender and e\the sender and e\bin\Debug\the sender and e.pdb
+C:\Users\jbt\Desktop\C#\thursday\the sender and e\the sender and e\obj\Debug\the_sender_and_e.Form1.resources
+C:\Users\jbt\Desktop\C#\thursday\the sender and e\the sender and e\obj\Debug\the_sender_and_e.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\thursday\the sender and e\the sender and e\obj\Debug\the sender and e.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\thursday\the sender and e\the sender and e\obj\Debug\the sender and e.exe
+C:\Users\jbt\Desktop\C#\thursday\the sender and e\the sender and e\obj\Debug\the sender and e.pdb

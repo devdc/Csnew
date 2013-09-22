@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\C#\thursday\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jbt\Desktop\C#\thursday\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jbt\Desktop\C#\thursday\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jbt\Desktop\C#\thursday\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jbt\Desktop\C#\thursday\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

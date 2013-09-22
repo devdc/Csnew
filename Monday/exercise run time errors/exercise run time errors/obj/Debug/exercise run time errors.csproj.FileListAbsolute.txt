@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\monday\exercise run time errors\exercise run time errors\bin\Debug\exercise run time errors.exe.config
+C:\Users\jbt\Desktop\C#\monday\exercise run time errors\exercise run time errors\bin\Debug\exercise run time errors.exe
+C:\Users\jbt\Desktop\C#\monday\exercise run time errors\exercise run time errors\bin\Debug\exercise run time errors.pdb
+C:\Users\jbt\Desktop\C#\monday\exercise run time errors\exercise run time errors\obj\Debug\exercise run time errors.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\monday\exercise run time errors\exercise run time errors\obj\Debug\exercise run time errors.exe
+C:\Users\jbt\Desktop\C#\monday\exercise run time errors\exercise run time errors\obj\Debug\exercise run time errors.pdb

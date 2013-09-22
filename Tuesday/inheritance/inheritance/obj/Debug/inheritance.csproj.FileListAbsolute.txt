@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\tuesday\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\jbt\Desktop\C#\tuesday\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\jbt\Desktop\C#\tuesday\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\jbt\Desktop\C#\tuesday\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\jbt\Desktop\C#\tuesday\inheritance\inheritance\obj\Debug\inheritance.pdb
+O:\qamit\C#\Tuesday\inheritance\inheritance\bin\Debug\inheritance.exe.config
+O:\qamit\C#\Tuesday\inheritance\inheritance\obj\Debug\inheritance.exe
+O:\qamit\C#\Tuesday\inheritance\inheritance\obj\Debug\inheritance.pdb

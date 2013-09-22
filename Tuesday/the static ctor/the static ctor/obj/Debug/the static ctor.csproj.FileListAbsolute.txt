@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\C#\tuesday\the static ctor\the static ctor\bin\Debug\the static ctor.exe.config
+C:\Users\jbt\Desktop\C#\tuesday\the static ctor\the static ctor\bin\Debug\the static ctor.exe
+C:\Users\jbt\Desktop\C#\tuesday\the static ctor\the static ctor\bin\Debug\the static ctor.pdb
+C:\Users\jbt\Desktop\C#\tuesday\the static ctor\the static ctor\obj\Debug\the static ctor.exe
+C:\Users\jbt\Desktop\C#\tuesday\the static ctor\the static ctor\obj\Debug\the static ctor.pdb

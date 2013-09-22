@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\C#\wednesday\the new keyword\the new keyword\bin\Debug\the new keyword.exe.config
+C:\Users\jbt\Desktop\C#\wednesday\the new keyword\the new keyword\bin\Debug\the new keyword.exe
+C:\Users\jbt\Desktop\C#\wednesday\the new keyword\the new keyword\bin\Debug\the new keyword.pdb
+C:\Users\jbt\Desktop\C#\wednesday\the new keyword\the new keyword\obj\Debug\the new keyword.exe
+C:\Users\jbt\Desktop\C#\wednesday\the new keyword\the new keyword\obj\Debug\the new keyword.pdb

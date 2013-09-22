@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the files namespace", "the files namespace\the files namespace.csproj", "{CF3AC2DB-15C2-4123-BDB7-3C3B0C29DD6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3AC2DB-15C2-4123-BDB7-3C3B0C29DD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3AC2DB-15C2-4123-BDB7-3C3B0C29DD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3AC2DB-15C2-4123-BDB7-3C3B0C29DD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3AC2DB-15C2-4123-BDB7-3C3B0C29DD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\bin\Debug\WindowsFormsApplication1 listbox.exe.config
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\bin\Debug\WindowsFormsApplication1 listbox.exe
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\bin\Debug\WindowsFormsApplication1 listbox.pdb
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\obj\Debug\WindowsFormsApplication1 listbox.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\obj\Debug\WindowsFormsApplication1_listbox.Form1.resources
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\obj\Debug\WindowsFormsApplication1_listbox.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\obj\Debug\WindowsFormsApplication1 listbox.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\obj\Debug\WindowsFormsApplication1 listbox.exe
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\obj\Debug\WindowsFormsApplication1 listbox.pdb
+O:\qamit\C#\Thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\bin\Debug\WindowsFormsApplication1 listbox.exe.config
+O:\qamit\C#\Thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\obj\Debug\WindowsFormsApplication1 listbox.exe
+O:\qamit\C#\Thursday\WindowsFormsApplication1 listbox\WindowsFormsApplication1 listbox\obj\Debug\WindowsFormsApplication1 listbox.pdb

@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\thursday\exercise search file\exercise search file\bin\Debug\exercise search file.exe.config
+C:\Users\jbt\Desktop\C#\thursday\exercise search file\exercise search file\bin\Debug\exercise search file.exe
+C:\Users\jbt\Desktop\C#\thursday\exercise search file\exercise search file\bin\Debug\exercise search file.pdb
+C:\Users\jbt\Desktop\C#\thursday\exercise search file\exercise search file\obj\Debug\exercise_search_file.Form1.resources
+C:\Users\jbt\Desktop\C#\thursday\exercise search file\exercise search file\obj\Debug\exercise_search_file.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\thursday\exercise search file\exercise search file\obj\Debug\exercise search file.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\thursday\exercise search file\exercise search file\obj\Debug\exercise search file.exe
+C:\Users\jbt\Desktop\C#\thursday\exercise search file\exercise search file\obj\Debug\exercise search file.pdb

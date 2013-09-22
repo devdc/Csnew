@@ -1,0 +1,21 @@
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance\exercise inheritance\bin\Debug\exercise inheritance.exe.config
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance\exercise inheritance\bin\Debug\exercise inheritance.exe
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance\exercise inheritance\bin\Debug\exercise inheritance.pdb
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance\exercise inheritance\obj\Debug\exercise inheritance.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance\exercise inheritance\obj\Debug\exercise inheritance.exe
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance\exercise inheritance\obj\Debug\exercise inheritance.pdb
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance and ctors\exercise inheritance\bin\Debug\exercise inheritance.exe.config
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance and ctors\exercise inheritance\obj\Debug\exercise inheritance.exe
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance and ctors\exercise inheritance\obj\Debug\exercise inheritance.pdb
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance and ctors\exercise inheritance\obj\Debug\exercise inheritance.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance and ctors\exercise inheritance\bin\Debug\exercise inheritance.exe
+C:\Users\jbt\Desktop\C#\tuesday\exercise inheritance and ctors\exercise inheritance\bin\Debug\exercise inheritance.pdb
+C:\Users\jbt\Desktop\C#\wednesday\exercise inheritance and ctors is as\exercise inheritance\bin\Debug\exercise inheritance.exe.config
+C:\Users\jbt\Desktop\C#\wednesday\exercise inheritance and ctors is as\exercise inheritance\obj\Debug\exercise inheritance.exe
+C:\Users\jbt\Desktop\C#\wednesday\exercise inheritance and ctors is as\exercise inheritance\obj\Debug\exercise inheritance.pdb
+C:\Users\jbt\Desktop\C#\wednesday\exercise inheritance and ctors is as\exercise inheritance\bin\Debug\exercise inheritance.exe
+C:\Users\jbt\Desktop\C#\wednesday\exercise inheritance and ctors is as\exercise inheritance\bin\Debug\exercise inheritance.pdb
+C:\Users\jbt\Desktop\C#\wednesday\exercise inheritance and ctors is as\exercise inheritance\obj\Debug\exercise inheritance.csprojResolveAssemblyReference.cache
+O:\qamit\C#\Wednesday\exercise inheritance and ctors is as\exercise inheritance\bin\Debug\exercise inheritance.exe.config
+O:\qamit\C#\Wednesday\exercise inheritance and ctors is as\exercise inheritance\obj\Debug\exercise inheritance.exe
+O:\qamit\C#\Wednesday\exercise inheritance and ctors is as\exercise inheritance\obj\Debug\exercise inheritance.pdb

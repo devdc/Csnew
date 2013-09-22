@@ -1,0 +1,21 @@
+C:\Users\jbt\Desktop\C#\monday\exercise collections\exercise collections\bin\Debug\exercise collections.exe.config
+C:\Users\jbt\Desktop\C#\monday\exercise collections\exercise collections\bin\Debug\exercise collections.exe
+C:\Users\jbt\Desktop\C#\monday\exercise collections\exercise collections\bin\Debug\exercise collections.pdb
+C:\Users\jbt\Desktop\C#\monday\exercise collections\exercise collections\obj\Debug\exercise collections.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\monday\exercise collections\exercise collections\obj\Debug\exercise_collections.Form1.resources
+C:\Users\jbt\Desktop\C#\monday\exercise collections\exercise collections\obj\Debug\exercise_collections.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\monday\exercise collections\exercise collections\obj\Debug\exercise collections.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\monday\exercise collections\exercise collections\obj\Debug\exercise collections.exe
+C:\Users\jbt\Desktop\C#\monday\exercise collections\exercise collections\obj\Debug\exercise collections.pdb
+C:\Users\jbt\Desktop\C#\monday\exercise generic\exercise collections\bin\Debug\exercise collections.exe.config
+C:\Users\jbt\Desktop\C#\monday\exercise generic\exercise collections\obj\Debug\exercise collections.exe
+C:\Users\jbt\Desktop\C#\monday\exercise generic\exercise collections\obj\Debug\exercise collections.pdb
+C:\Users\jbt\Desktop\C#\monday\exercise generic\exercise collections\bin\Debug\exercise collections.exe
+C:\Users\jbt\Desktop\C#\monday\exercise generic\exercise collections\bin\Debug\exercise collections.pdb
+C:\Users\jbt\Desktop\C#\monday\exercise generic\exercise collections\obj\Debug\exercise collections.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\monday\exercise generic\exercise collections\obj\Debug\exercise_collections.Form1.resources
+C:\Users\jbt\Desktop\C#\monday\exercise generic\exercise collections\obj\Debug\exercise_collections.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\monday\exercise generic\exercise collections\obj\Debug\exercise collections.csproj.GenerateResource.Cache
+O:\qamit\C#\Monday\exercise generic\exercise collections\bin\Debug\exercise collections.exe.config
+O:\qamit\C#\Monday\exercise generic\exercise collections\obj\Debug\exercise collections.exe
+O:\qamit\C#\Monday\exercise generic\exercise collections\obj\Debug\exercise collections.pdb

@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\wednesday\exercise interface\exercise interface\bin\Debug\exercise interface.exe.config
+C:\Users\jbt\Desktop\C#\wednesday\exercise interface\exercise interface\bin\Debug\exercise interface.exe
+C:\Users\jbt\Desktop\C#\wednesday\exercise interface\exercise interface\bin\Debug\exercise interface.pdb
+C:\Users\jbt\Desktop\C#\wednesday\exercise interface\exercise interface\obj\Debug\exercise interface.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\wednesday\exercise interface\exercise interface\obj\Debug\exercise interface.exe
+C:\Users\jbt\Desktop\C#\wednesday\exercise interface\exercise interface\obj\Debug\exercise interface.pdb

@@ -1,0 +1,9 @@
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 anonymous method\WindowsFormsApplication1 anonymous method\bin\Debug\WindowsFormsApplication1 anonymous method.exe.config
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 anonymous method\WindowsFormsApplication1 anonymous method\bin\Debug\WindowsFormsApplication1 anonymous method.exe
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 anonymous method\WindowsFormsApplication1 anonymous method\bin\Debug\WindowsFormsApplication1 anonymous method.pdb
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 anonymous method\WindowsFormsApplication1 anonymous method\obj\Debug\WindowsFormsApplication1 anonymous method.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 anonymous method\WindowsFormsApplication1 anonymous method\obj\Debug\WindowsFormsApplication1_anonymous_method.Form1.resources
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 anonymous method\WindowsFormsApplication1 anonymous method\obj\Debug\WindowsFormsApplication1_anonymous_method.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 anonymous method\WindowsFormsApplication1 anonymous method\obj\Debug\WindowsFormsApplication1 anonymous method.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 anonymous method\WindowsFormsApplication1 anonymous method\obj\Debug\WindowsFormsApplication1 anonymous method.exe
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 anonymous method\WindowsFormsApplication1 anonymous method\obj\Debug\WindowsFormsApplication1 anonymous method.pdb

@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\wednesday\the resource management\the resource management\bin\Debug\the resource management.exe.config
+C:\Users\jbt\Desktop\C#\wednesday\the resource management\the resource management\bin\Debug\the resource management.exe
+C:\Users\jbt\Desktop\C#\wednesday\the resource management\the resource management\bin\Debug\the resource management.pdb
+C:\Users\jbt\Desktop\C#\wednesday\the resource management\the resource management\obj\Debug\the resource management.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\wednesday\the resource management\the resource management\obj\Debug\the resource management.exe
+C:\Users\jbt\Desktop\C#\wednesday\the resource management\the resource management\obj\Debug\the resource management.pdb

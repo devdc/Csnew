@@ -1,0 +1,2 @@
+C:\Users\jbt\Desktop\C#\wednesday\the namespace\the namespace\bin\Debug\the namespace.exe.config
+O:\qamit\C#\Wednesday\the namespace\the namespace\bin\Debug\the namespace.exe.config

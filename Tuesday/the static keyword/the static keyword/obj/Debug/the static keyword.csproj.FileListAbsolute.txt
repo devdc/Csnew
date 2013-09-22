@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\tuesday\the static keyword\the static keyword\bin\Debug\the static keyword.exe.config
+C:\Users\jbt\Desktop\C#\tuesday\the static keyword\the static keyword\bin\Debug\the static keyword.exe
+C:\Users\jbt\Desktop\C#\tuesday\the static keyword\the static keyword\bin\Debug\the static keyword.pdb
+C:\Users\jbt\Desktop\C#\tuesday\the static keyword\the static keyword\obj\Debug\the static keyword.exe
+C:\Users\jbt\Desktop\C#\tuesday\the static keyword\the static keyword\obj\Debug\the static keyword.pdb
+O:\qamit\C#\Tuesday\the static keyword\the static keyword\bin\Debug\the static keyword.exe.config
+O:\qamit\C#\Tuesday\the static keyword\the static keyword\obj\Debug\the static keyword.exe
+O:\qamit\C#\Tuesday\the static keyword\the static keyword\obj\Debug\the static keyword.pdb

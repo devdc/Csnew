@@ -1,0 +1,18 @@
+C:\Users\jbt\Desktop\C#\thursday\the thread\the thread\bin\Debug\the thread.exe.config
+C:\Users\jbt\Desktop\C#\thursday\the thread\the thread\bin\Debug\the thread.exe
+C:\Users\jbt\Desktop\C#\thursday\the thread\the thread\bin\Debug\the thread.pdb
+C:\Users\jbt\Desktop\C#\thursday\the thread\the thread\obj\Debug\the thread.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\thursday\the thread\the thread\obj\Debug\the_thread.Form1.resources
+C:\Users\jbt\Desktop\C#\thursday\the thread\the thread\obj\Debug\the_thread.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\thursday\the thread\the thread\obj\Debug\the thread.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\thursday\the thread\the thread\obj\Debug\the thread.exe
+C:\Users\jbt\Desktop\C#\thursday\the thread\the thread\obj\Debug\the thread.pdb
+O:\qamit\C#\Thursday\the thread\the thread\bin\Debug\the thread.exe.config
+O:\qamit\C#\Thursday\the thread\the thread\obj\Debug\the thread.exe
+O:\qamit\C#\Thursday\the thread\the thread\obj\Debug\the thread.pdb
+O:\qamit\C#\Thursday\the thread\the thread\bin\Debug\the thread.exe
+O:\qamit\C#\Thursday\the thread\the thread\bin\Debug\the thread.pdb
+O:\qamit\C#\Thursday\the thread\the thread\obj\Debug\the thread.csprojResolveAssemblyReference.cache
+O:\qamit\C#\Thursday\the thread\the thread\obj\Debug\the_thread.Form1.resources
+O:\qamit\C#\Thursday\the thread\the thread\obj\Debug\the_thread.Properties.Resources.resources
+O:\qamit\C#\Thursday\the thread\the thread\obj\Debug\the thread.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\C#\thursday\the xml\the xml\bin\Debug\the xml.exe.config
+C:\Users\jbt\Desktop\C#\thursday\the xml\the xml\bin\Debug\the xml.exe
+C:\Users\jbt\Desktop\C#\thursday\the xml\the xml\bin\Debug\the xml.pdb
+C:\Users\jbt\Desktop\C#\thursday\the xml\the xml\obj\Debug\the xml.exe
+C:\Users\jbt\Desktop\C#\thursday\the xml\the xml\obj\Debug\the xml.pdb

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+  <country>
+    <name>israel</name>
+    <capitol>jerusalem</capitol>
+  </country>
+
+  <country>
+    <name>france</name>
+    <capitol>paris</capitol>
+  </country>
+
+
+  <country>
+    <name>uk</name>
+    <capitol>london</capitol>
+  </country>
+</countries>

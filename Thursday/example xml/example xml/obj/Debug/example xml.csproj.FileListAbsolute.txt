@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\thursday\example xml\example xml\bin\Debug\example xml.exe.config
+C:\Users\jbt\Desktop\C#\thursday\example xml\example xml\bin\Debug\example xml.exe
+C:\Users\jbt\Desktop\C#\thursday\example xml\example xml\bin\Debug\example xml.pdb
+C:\Users\jbt\Desktop\C#\thursday\example xml\example xml\obj\Debug\example_xml.Form1.resources
+C:\Users\jbt\Desktop\C#\thursday\example xml\example xml\obj\Debug\example_xml.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\thursday\example xml\example xml\obj\Debug\example xml.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\thursday\example xml\example xml\obj\Debug\example xml.exe
+C:\Users\jbt\Desktop\C#\thursday\example xml\example xml\obj\Debug\example xml.pdb

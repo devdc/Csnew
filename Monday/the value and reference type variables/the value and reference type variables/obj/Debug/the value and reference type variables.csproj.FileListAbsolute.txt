@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\C#\monday\the value and reference type variables\the value and reference type variables\bin\Debug\the value and reference type variables.exe.config
+C:\Users\jbt\Desktop\C#\monday\the value and reference type variables\the value and reference type variables\bin\Debug\the value and reference type variables.exe
+C:\Users\jbt\Desktop\C#\monday\the value and reference type variables\the value and reference type variables\bin\Debug\the value and reference type variables.pdb
+C:\Users\jbt\Desktop\C#\monday\the value and reference type variables\the value and reference type variables\obj\Debug\the value and reference type variables.exe
+C:\Users\jbt\Desktop\C#\monday\the value and reference type variables\the value and reference type variables\obj\Debug\the value and reference type variables.pdb

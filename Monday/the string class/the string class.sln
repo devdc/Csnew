@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the string class", "the string class\the string class.csproj", "{EAF465AF-1386-42CC-86BC-D9EB8F265E16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF465AF-1386-42CC-86BC-D9EB8F265E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF465AF-1386-42CC-86BC-D9EB8F265E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF465AF-1386-42CC-86BC-D9EB8F265E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF465AF-1386-42CC-86BC-D9EB8F265E16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\tuesday\inheritance and ctors\inheritance and ctors\bin\Debug\inheritance and ctors.exe.config
+C:\Users\jbt\Desktop\C#\tuesday\inheritance and ctors\inheritance and ctors\bin\Debug\inheritance and ctors.exe
+C:\Users\jbt\Desktop\C#\tuesday\inheritance and ctors\inheritance and ctors\bin\Debug\inheritance and ctors.pdb
+C:\Users\jbt\Desktop\C#\tuesday\inheritance and ctors\inheritance and ctors\obj\Debug\inheritance and ctors.exe
+C:\Users\jbt\Desktop\C#\tuesday\inheritance and ctors\inheritance and ctors\obj\Debug\inheritance and ctors.pdb
+O:\qamit\C#\Tuesday\inheritance and ctors\inheritance and ctors\bin\Debug\inheritance and ctors.exe.config
+O:\qamit\C#\Tuesday\inheritance and ctors\inheritance and ctors\obj\Debug\inheritance and ctors.exe
+O:\qamit\C#\Tuesday\inheritance and ctors\inheritance and ctors\obj\Debug\inheritance and ctors.pdb

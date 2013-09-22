@@ -1,0 +1,9 @@
+C:\Users\jbt\Desktop\C#\monday\run time errors\run time errors\bin\Debug\run time errors.exe.config
+C:\Users\jbt\Desktop\C#\monday\run time errors\run time errors\bin\Debug\run time errors.exe
+C:\Users\jbt\Desktop\C#\monday\run time errors\run time errors\bin\Debug\run time errors.pdb
+C:\Users\jbt\Desktop\C#\monday\run time errors\run time errors\obj\Debug\run time errors.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\monday\run time errors\run time errors\obj\Debug\run time errors.exe
+C:\Users\jbt\Desktop\C#\monday\run time errors\run time errors\obj\Debug\run time errors.pdb
+O:\qamit\C#\Monday\run time errors\run time errors\bin\Debug\run time errors.exe.config
+O:\qamit\C#\Monday\run time errors\run time errors\obj\Debug\run time errors.exe
+O:\qamit\C#\Monday\run time errors\run time errors\obj\Debug\run time errors.pdb

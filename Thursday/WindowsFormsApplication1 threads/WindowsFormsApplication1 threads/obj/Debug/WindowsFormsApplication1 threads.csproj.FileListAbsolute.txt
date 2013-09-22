@@ -1,0 +1,9 @@
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 threads\WindowsFormsApplication1 threads\bin\Debug\WindowsFormsApplication1 threads.exe.config
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 threads\WindowsFormsApplication1 threads\bin\Debug\WindowsFormsApplication1 threads.exe
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 threads\WindowsFormsApplication1 threads\bin\Debug\WindowsFormsApplication1 threads.pdb
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 threads\WindowsFormsApplication1 threads\obj\Debug\WindowsFormsApplication1 threads.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 threads\WindowsFormsApplication1 threads\obj\Debug\WindowsFormsApplication1_threads.Form1.resources
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 threads\WindowsFormsApplication1 threads\obj\Debug\WindowsFormsApplication1_threads.Properties.Resources.resources
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 threads\WindowsFormsApplication1 threads\obj\Debug\WindowsFormsApplication1 threads.csproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 threads\WindowsFormsApplication1 threads\obj\Debug\WindowsFormsApplication1 threads.exe
+C:\Users\jbt\Desktop\C#\thursday\WindowsFormsApplication1 threads\WindowsFormsApplication1 threads\obj\Debug\WindowsFormsApplication1 threads.pdb

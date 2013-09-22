@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\thursday\the string builder\the string builder\bin\Debug\the string builder.exe.config
+C:\Users\jbt\Desktop\C#\thursday\the string builder\the string builder\bin\Debug\the string builder.exe
+C:\Users\jbt\Desktop\C#\thursday\the string builder\the string builder\bin\Debug\the string builder.pdb
+C:\Users\jbt\Desktop\C#\thursday\the string builder\the string builder\obj\Debug\the string builder.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\thursday\the string builder\the string builder\obj\Debug\the string builder.exe
+C:\Users\jbt\Desktop\C#\thursday\the string builder\the string builder\obj\Debug\the string builder.pdb
