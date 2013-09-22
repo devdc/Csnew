@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\sunday\converting\converting\bin\Debug\converting.exe.config
+C:\Users\jbt\Desktop\C#\sunday\converting\converting\bin\Debug\converting.exe
+C:\Users\jbt\Desktop\C#\sunday\converting\converting\bin\Debug\converting.pdb
+C:\Users\jbt\Desktop\C#\sunday\converting\converting\obj\Debug\converting.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\sunday\converting\converting\obj\Debug\converting.exe
+C:\Users\jbt\Desktop\C#\sunday\converting\converting\obj\Debug\converting.pdb

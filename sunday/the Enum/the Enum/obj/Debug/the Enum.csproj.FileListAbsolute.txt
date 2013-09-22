@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\C#\sunday\the Enum\the Enum\bin\Debug\the Enum.exe.config
+C:\Users\jbt\Desktop\C#\sunday\the Enum\the Enum\bin\Debug\the Enum.exe
+C:\Users\jbt\Desktop\C#\sunday\the Enum\the Enum\bin\Debug\the Enum.pdb
+C:\Users\jbt\Desktop\C#\sunday\the Enum\the Enum\obj\Debug\the Enum.exe
+C:\Users\jbt\Desktop\C#\sunday\the Enum\the Enum\obj\Debug\the Enum.pdb

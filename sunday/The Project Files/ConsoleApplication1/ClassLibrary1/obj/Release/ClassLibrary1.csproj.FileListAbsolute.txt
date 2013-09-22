@@ -1,0 +1,4 @@
+C:\Users\jbt\Desktop\C#\sunday\The Project Files\ConsoleApplication1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\jbt\Desktop\C#\sunday\The Project Files\ConsoleApplication1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\jbt\Desktop\C#\sunday\The Project Files\ConsoleApplication1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\jbt\Desktop\C#\sunday\The Project Files\ConsoleApplication1\ClassLibrary1\obj\Release\ClassLibrary1.pdb

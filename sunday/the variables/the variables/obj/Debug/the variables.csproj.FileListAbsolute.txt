@@ -1,0 +1,5 @@
+C:\Users\jbt\Desktop\C#\sunday\the variables\the variables\bin\Debug\the variables.exe.config
+C:\Users\jbt\Desktop\C#\sunday\the variables\the variables\bin\Debug\the variables.exe
+C:\Users\jbt\Desktop\C#\sunday\the variables\the variables\bin\Debug\the variables.pdb
+C:\Users\jbt\Desktop\C#\sunday\the variables\the variables\obj\Debug\the variables.exe
+C:\Users\jbt\Desktop\C#\sunday\the variables\the variables\obj\Debug\the variables.pdb

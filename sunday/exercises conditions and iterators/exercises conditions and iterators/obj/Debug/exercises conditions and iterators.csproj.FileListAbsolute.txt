@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\sunday\exercises conditions and iterators\exercises conditions and iterators\bin\Debug\exercises conditions and iterators.exe.config
+C:\Users\jbt\Desktop\C#\sunday\exercises conditions and iterators\exercises conditions and iterators\bin\Debug\exercises conditions and iterators.exe
+C:\Users\jbt\Desktop\C#\sunday\exercises conditions and iterators\exercises conditions and iterators\bin\Debug\exercises conditions and iterators.pdb
+C:\Users\jbt\Desktop\C#\sunday\exercises conditions and iterators\exercises conditions and iterators\obj\Debug\exercises conditions and iterators.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\sunday\exercises conditions and iterators\exercises conditions and iterators\obj\Debug\exercises conditions and iterators.exe
+C:\Users\jbt\Desktop\C#\sunday\exercises conditions and iterators\exercises conditions and iterators\obj\Debug\exercises conditions and iterators.pdb

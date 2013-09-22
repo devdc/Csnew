@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\sunday\firstExercise\firstExercise\bin\Debug\firstExercise.exe.config
+C:\Users\jbt\Desktop\C#\sunday\firstExercise\firstExercise\bin\Debug\firstExercise.exe
+C:\Users\jbt\Desktop\C#\sunday\firstExercise\firstExercise\bin\Debug\firstExercise.pdb
+C:\Users\jbt\Desktop\C#\sunday\firstExercise\firstExercise\obj\Debug\firstExercise.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\sunday\firstExercise\firstExercise\obj\Debug\firstExercise.exe
+C:\Users\jbt\Desktop\C#\sunday\firstExercise\firstExercise\obj\Debug\firstExercise.pdb

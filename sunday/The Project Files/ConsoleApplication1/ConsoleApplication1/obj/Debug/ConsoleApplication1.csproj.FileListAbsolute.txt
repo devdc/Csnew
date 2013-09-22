@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\sunday\The Project Files\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jbt\Desktop\C#\sunday\The Project Files\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jbt\Desktop\C#\sunday\The Project Files\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jbt\Desktop\C#\sunday\The Project Files\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\sunday\The Project Files\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jbt\Desktop\C#\sunday\The Project Files\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

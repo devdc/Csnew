@@ -1,0 +1,6 @@
+C:\Users\jbt\Desktop\C#\sunday\exercise Enum\exercise Enum\bin\Debug\exercise Enum.exe.config
+C:\Users\jbt\Desktop\C#\sunday\exercise Enum\exercise Enum\bin\Debug\exercise Enum.exe
+C:\Users\jbt\Desktop\C#\sunday\exercise Enum\exercise Enum\bin\Debug\exercise Enum.pdb
+C:\Users\jbt\Desktop\C#\sunday\exercise Enum\exercise Enum\obj\Debug\exercise Enum.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\C#\sunday\exercise Enum\exercise Enum\obj\Debug\exercise Enum.exe
+C:\Users\jbt\Desktop\C#\sunday\exercise Enum\exercise Enum\obj\Debug\exercise Enum.pdb

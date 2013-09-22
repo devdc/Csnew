@@ -1,0 +1,13 @@
+C:\Users\jbt\Desktop\C#\sunday\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jbt\Desktop\C#\sunday\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jbt\Desktop\C#\sunday\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jbt\Desktop\C#\sunday\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\jbt\Desktop\C#\sunday\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\jbt\Desktop\C#\sunday\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\jbt\Desktop\C#\sunday\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jbt\Desktop\C#\sunday\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\jbt\Desktop\C#\sunday\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+O:\qamit\C#\sunday\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+O:\qamit\C#\sunday\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+O:\qamit\C#\sunday\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+O:\qamit\C#\sunday\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

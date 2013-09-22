@@ -1,0 +1,8 @@
+C:\Users\jbt\Desktop\C#\sunday\firstApp\firstApp\bin\Debug\firstApp.exe.config
+C:\Users\jbt\Desktop\C#\sunday\firstApp\firstApp\bin\Debug\firstApp.exe
+C:\Users\jbt\Desktop\C#\sunday\firstApp\firstApp\bin\Debug\firstApp.pdb
+C:\Users\jbt\Desktop\C#\sunday\firstApp\firstApp\obj\Debug\firstApp.exe
+C:\Users\jbt\Desktop\C#\sunday\firstApp\firstApp\obj\Debug\firstApp.pdb
+O:\qamit\C#\sunday\firstApp\firstApp\bin\Debug\firstApp.exe.config
+O:\qamit\C#\sunday\firstApp\firstApp\obj\Debug\firstApp.exe
+O:\qamit\C#\sunday\firstApp\firstApp\obj\Debug\firstApp.pdb
